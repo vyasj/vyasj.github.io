@@ -8,6 +8,7 @@ _site
 .tweet-cache
 Gemfile.lock
 node_modules/
+
 vendor_posts/2015-03-15-formatting-and-links.md
 _posts/2015-05-15-images.md
 _posts/2015-07-15-code.md
@@ -34,3 +35,12 @@ _posts/2024-01-26-geojson-map.md
 _posts/2024-01-27-advanced-images.md
 _posts/2024-01-27-code-diff.md
 _posts/2024-01-27-vega-lite.md
+
+_projects/1_project.md
+_projects/2_project.md
+_projects/3_project.md
+_projects/4_project.md
+_projects/5_project.md
+_projects/6_project.md
+
+_bibliography/papers.bib

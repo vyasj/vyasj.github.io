@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Jaimin, and I wanted to make this as a personal website. My primary use case was to host a blog where I can write about things I'm up to, but I figured having an all-in-one personal website where I could include projects I'm working on, books I'm reading, textbooks I'm working through, and so on would be more conducive to what I wanted to achieve from this. 
+Hi! My name is Jaimin, and I wanted to make this as a personal website. My primary use case was to host a blog where I can write about things I'm up to, but I figured having an all-in-one personal website where I could include projects I'm working on, books I'm reading, textbooks I'm working through, and so on would be more conducive to what I wanted to achieve from this, and maybe more fun.
 
 Feel free to poke around, thanks for dropping by!
 
